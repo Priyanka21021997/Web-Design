@@ -94,33 +94,3 @@ height: 700px;
 .footer h6{
 	line-height: 50px;
 }
-@media(min-width: 992px){
-
-}
-@media(min-width: 768px) and (max-width: 991px)
-{
-
-}
-@media(min-width: 460px)and(max-width: 767px){
-
-}
-@media(min-width: 460px)and(max-width: 574px){
-
-}
-@media(max-width: 400px){
-	.headerset h2{
-	font-size:20px;}
-.headerset h1{
-	font-size:32px;
-font-weight: bold;}
-.ourservices{
-
-height: 30000px !important;
-}
-.portfolio {
-	height: 3500px;
-}
-.ourteam{
-	height: 1400px;
-}
-}
